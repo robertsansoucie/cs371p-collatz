@@ -1,19 +1,3 @@
 # CS371p: Object-Oriented Programming Collatz Repo
 
-* Name: Robert San Soucie
-
-* EID: RLS4822
-
-* GitLab ID: robertsansoucie
-
-* HackerRank ID: robertsansoucie
-
-* Git SHA: d5daf196fe0c40dac3c41a7a14fbb427f806be04
-
-* GitLab Pipelines: https://gitlab.com/robertsansoucie/cs371p-collatz/-/pipelines 
-
-* Estimated completion time: 10
-
-* Actual completion time: 8
-
-* Comments: 
+This is a project based on the collatz conjecture (https://en.wikipedia.org/wiki/Collatz_conjecture) trying to efficiently determine the number between two pairs of numbers that takes the most number of operations to reach 1 according to first paragraph of the wikipedia article. The main file is "Collatz.cpp" and there is an example of sample input and output in RunCollatz.in and RunCollatz.out.
