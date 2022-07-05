@@ -1,0 +1,119 @@
+commit d5daf196fe0c40dac3c41a7a14fbb427f806be04
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 17:23:39 2021 -0600
+
+    Fix doxyfile for real this time
+
+commit 1027d91c0b415de46a2c2574f4bcaaffb24af74c
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 17:17:12 2021 -0600
+
+    Trying again to fix the html
+
+commit 30931baf84665b06d8d834c51600548ba5d4c931
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 17:15:07 2021 -0600
+
+    Fix some html
+
+commit de2ba3b5ca1482c6dd413bd45ee8fa04efe604c9
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 17:00:55 2021 -0600
+
+    Update Collatz.hpp and run doxygen
+
+commit 3df2157859a2e0a7b0072286bb24a12ece861282
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 16:53:00 2021 -0600
+
+    Add some comments to Collatz
+
+commit 9088140792c25ecb76bcddace293cdcc33a88bb9
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 16:28:54 2021 -0600
+
+    Add my own test case
+
+commit 1fa3955eed682d590a5891ebd00e413596fa8591
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 15:38:07 2021 -0600
+
+    Add unit tests
+
+commit b37549e146050182f2901a4488c4c80dafbf4bf2
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 15:14:57 2021 -0600
+
+    Add pipeline link to readme
+
+commit b5ef55fb7899a4b9afffe61ab67e45ee437ed089
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 15:12:43 2021 -0600
+
+    Update README with everything except the final git SHA
+
+commit 636fcc5000e843aaef238d9dd904690c28cee1e9
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 12:56:59 2021 -0600
+
+    Run astyle
+
+commit 2e967319684ad0b2807811774b2aaf7418423cd7
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Mon Feb 8 12:40:17 2021 -0600
+
+    Implement caching, get hackerrank working
+
+commit 1467529bc8c767943ee4e79f0a316beb4585e747
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Sat Feb 6 19:24:52 2021 -0600
+
+    Change relevant data types to longs to handle larger numbers
+
+commit ebde1d0290169f124fb4aa0fc0f15ad0e93b2b52
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Sat Feb 6 19:17:47 2021 -0600
+
+    Implement second recommended optimization from quiz
+
+commit 0afd848cfcfa16e48f5c4b139ac59546786bcaee
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Sat Feb 6 19:08:49 2021 -0600
+
+    Add first optimization from quiz
+
+commit 13d236a774cdf90962d97433912a7f185a2758dc
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Sat Feb 6 18:51:38 2021 -0600
+
+    Fix problem with min/max
+
+commit eb1e1761c74a68ae8585f25a48da1377a8438033
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Sat Feb 6 15:30:37 2021 -0600
+
+    Working naive solution
+
+commit ed7291168679817d666a9dd42e4e8f2492976d2b
+Author: Robert San Soucie <robertss@cs.utexas.edu>
+Date:   Sat Feb 6 15:12:28 2021 -0600
+
+    Fix broken test
+
+commit c110593d6b4f2ca36eeb05859d6f7797a2c71522
+Author: Robert San Soucie <robertsansoucie@gmail.com>
+Date:   Sat Feb 6 14:20:16 2021 -0600
+
+    Initial commit
+
+commit d4917000af469dccbdff4fec7668cff3d93a57ff
+Author: Glenn Downing <downing@cs.utexas.edu>
+Date:   Wed Jan 27 18:48:58 2021 -0600
+
+    another commit
+
+commit 50a34d74d39a3813ee7a970333fc156e7c20945b
+Author: Glenn Downing <downing@cs.utexas.edu>
+Date:   Wed Jan 27 18:17:44 2021 -0600
+
+    first commit
